@@ -3,7 +3,7 @@
 ## Installation
 
 * `git clone <repository-url>`
-* `cd engines-653-repro`
+* `cd engines-repro`
 * `npm install`
 
 ## Linting
